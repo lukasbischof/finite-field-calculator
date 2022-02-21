@@ -6,7 +6,7 @@ Calculates an addition and multiplication table as well as the additive and mult
 ### Usage
 
 ```shell
-./finite-field-calculator
+cargo run <your_field_bound>
 ```
 
 ##### Caution
